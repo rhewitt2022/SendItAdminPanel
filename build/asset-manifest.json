@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0b691b8.css",
-    "main.js": "/static/js/main.b3574e2d.js",
+    "main.css": "/static/css/main.7592e63d.css",
+    "main.js": "/static/js/main.b4dc4892.js",
     "static/media/login-user.svg": "/static/media/login-user.1b791fad963c53b9cf82b6b8c863b6d3.svg",
     "static/media/LOGIN.svg": "/static/media/LOGIN.b9a7780accaf1358cd30.svg",
     "static/media/darth.jpg": "/static/media/darth.556aa9f80f5e29e579c2.jpg",
     "static/media/userface.jpg": "/static/media/userface.5d2fcfef70943d68fe80.jpg",
     "static/media/EmptyPhoto.png": "/static/media/EmptyPhoto.de310438f03746eae115.png",
+    "static/media/pdf.png": "/static/media/pdf.ff1cc4b3d2229a459e08.png",
     "static/media/SenditLogo.svg": "/static/media/SenditLogo.c09fad8298b4e25ef297dc50d8bd7b8a.svg",
     "static/media/admin.svg": "/static/media/admin.85962e008976f32c886ff2b6af2cc533.svg",
     "static/media/adminactive.svg": "/static/media/adminactive.d3e56d0bc9f9eb70c604fef63ca9a9d0.svg",
@@ -69,11 +70,11 @@
     "static/media/close-light.svg": "/static/media/close-light.dd6b672c7dbf2490782e1ede996b4bd6.svg",
     "static/media/table_check.svg": "/static/media/table_check.507dffe383ca8361ae9fbce0a332b464.svg",
     "static/media/CheckIcon.svg": "/static/media/CheckIcon.4b5534bf9479d48abe5a6562f5a4cedb.svg",
-    "main.c0b691b8.css.map": "/static/css/main.c0b691b8.css.map",
-    "main.b3574e2d.js.map": "/static/js/main.b3574e2d.js.map"
+    "main.7592e63d.css.map": "/static/css/main.7592e63d.css.map",
+    "main.b4dc4892.js.map": "/static/js/main.b4dc4892.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0b691b8.css",
-    "static/js/main.b3574e2d.js"
+    "static/css/main.7592e63d.css",
+    "static/js/main.b4dc4892.js"
   ]
 }
