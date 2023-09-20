@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.edfdb173.css",
-    "main.js": "/static/js/main.0dbf26c0.js",
+    "main.css": "/static/css/main.1fed69b7.css",
+    "main.js": "/static/js/main.123b6563.js",
     "static/media/login-user.svg": "/static/media/login-user.1b791fad963c53b9cf82b6b8c863b6d3.svg",
     "static/media/LOGIN.svg": "/static/media/LOGIN.b9a7780accaf1358cd30.svg",
     "static/media/darth.jpg": "/static/media/darth.556aa9f80f5e29e579c2.jpg",
     "static/media/userface.jpg": "/static/media/userface.5d2fcfef70943d68fe80.jpg",
+    "static/media/anon-user.svg": "/static/media/anon-user.59107d1af51cb4fba59399e2d0d5a7b8.svg",
     "static/media/EmptyPhoto.png": "/static/media/EmptyPhoto.de310438f03746eae115.png",
     "static/media/csv-file.png": "/static/media/csv-file.f5483d0a9c4c4f63f61d.png",
     "static/media/pdf.png": "/static/media/pdf.ff1cc4b3d2229a459e08.png",
@@ -32,6 +33,7 @@
     "static/media/user-edit.svg": "/static/media/user-edit.13a0f2ae22607f629116e23748c39054.svg",
     "static/media/usersicon.svg": "/static/media/usersicon.50e9764b8812ba4b95ff0bda7359849f.svg",
     "static/media/usersiconactive.svg": "/static/media/usersiconactive.794b936b3ac579d2f943dd14998a6408.svg",
+    "static/media/questionmarkcircle.svg": "/static/media/questionmarkcircle.7fcee6a4fe527f0c54179e8b2b0f988d.svg",
     "static/media/blue-trash.svg": "/static/media/blue-trash.c2c68492f8ba9448bc03cf84d1aae79c.svg",
     "static/media/compliance.svg": "/static/media/compliance.ea13cc0b83c0d8ae7100725c720ebb67.svg",
     "static/media/complianceActive.svg": "/static/media/complianceActive.39aa4bf8d2f9c22f837f30945645e86d.svg",
@@ -44,6 +46,7 @@
     "static/media/card-slash.svg": "/static/media/card-slash.31f410da8c0692a5563bfaec198b31c5.svg",
     "static/media/edit-2.svg": "/static/media/edit-2.0ab968c5e94305a490578589e575fd2e.svg",
     "static/media/table-close.svg": "/static/media/table-close.79e17d7d13e0129b8947ba743970497d.svg",
+    "index.html": "/index.html",
     "static/media/wallet-16.svg": "/static/media/wallet-16.1107c6537de0711363b12cfd7c62e487.svg",
     "static/media/helpcentre.svg": "/static/media/helpcentre.aca15c29a316e7c70615dce4e63e9a12.svg",
     "static/media/helpcentreactive.svg": "/static/media/helpcentreactive.9ae03cee8214c808b26fcf739ecf2cfa.svg",
@@ -52,7 +55,8 @@
     "static/media/table-pending.svg": "/static/media/table-pending.baab78abd985ce2b5e670bd94a16c5d7.svg",
     "static/media/eye.svg": "/static/media/eye.1bc0b8010a70e04d71c29e1483d305ea.svg",
     "static/media/blue-edit.svg": "/static/media/blue-edit.f190678dde125c4710bbb0c7f4e723f3.svg",
-    "index.html": "/index.html",
+    "static/media/treasuryIcon.svg": "/static/media/treasuryIcon.7a949c1f6714b01b3605f829505a6e3c.svg",
+    "static/media/treasuryIconActive.svg": "/static/media/treasuryIconActive.891ca351ec23959d284214a97fb84494.svg",
     "static/media/unlockactive.svg": "/static/media/unlockactive.b0952804b9af7cb7855c1796c105624e.svg",
     "static/media/unlockicon.svg": "/static/media/unlockicon.9c81851f5e621218e5d9178877f45760.svg",
     "static/media/reports.svg": "/static/media/reports.e938a1ca363e8766df8bdcdf817ee833.svg",
@@ -71,11 +75,11 @@
     "static/media/close-light.svg": "/static/media/close-light.dd6b672c7dbf2490782e1ede996b4bd6.svg",
     "static/media/table_check.svg": "/static/media/table_check.507dffe383ca8361ae9fbce0a332b464.svg",
     "static/media/CheckIcon.svg": "/static/media/CheckIcon.4b5534bf9479d48abe5a6562f5a4cedb.svg",
-    "main.edfdb173.css.map": "/static/css/main.edfdb173.css.map",
-    "main.0dbf26c0.js.map": "/static/js/main.0dbf26c0.js.map"
+    "main.1fed69b7.css.map": "/static/css/main.1fed69b7.css.map",
+    "main.123b6563.js.map": "/static/js/main.123b6563.js.map"
   },
   "entrypoints": [
-    "static/css/main.edfdb173.css",
-    "static/js/main.0dbf26c0.js"
+    "static/css/main.1fed69b7.css",
+    "static/js/main.123b6563.js"
   ]
 }
