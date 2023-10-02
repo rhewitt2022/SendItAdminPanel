@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8042bf6e.css",
-    "main.js": "/static/js/main.55b8e0c8.js",
+    "main.css": "/static/css/main.76a2a37b.css",
+    "main.js": "/static/js/main.59eacf49.js",
     "static/media/login-user.svg": "/static/media/login-user.1b791fad963c53b9cf82b6b8c863b6d3.svg",
     "static/media/LOGIN.svg": "/static/media/LOGIN.b9a7780accaf1358cd30.svg",
     "static/media/darth.jpg": "/static/media/darth.556aa9f80f5e29e579c2.jpg",
@@ -75,11 +75,11 @@
     "static/media/close-light.svg": "/static/media/close-light.dd6b672c7dbf2490782e1ede996b4bd6.svg",
     "static/media/table_check.svg": "/static/media/table_check.507dffe383ca8361ae9fbce0a332b464.svg",
     "static/media/CheckIcon.svg": "/static/media/CheckIcon.4b5534bf9479d48abe5a6562f5a4cedb.svg",
-    "main.8042bf6e.css.map": "/static/css/main.8042bf6e.css.map",
-    "main.55b8e0c8.js.map": "/static/js/main.55b8e0c8.js.map"
+    "main.76a2a37b.css.map": "/static/css/main.76a2a37b.css.map",
+    "main.59eacf49.js.map": "/static/js/main.59eacf49.js.map"
   },
   "entrypoints": [
-    "static/css/main.8042bf6e.css",
-    "static/js/main.55b8e0c8.js"
+    "static/css/main.76a2a37b.css",
+    "static/js/main.59eacf49.js"
   ]
 }
